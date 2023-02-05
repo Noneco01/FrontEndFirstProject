@@ -3,7 +3,7 @@
 
 @media(min-width:376px){
     
-    .header{
+    .bg{
         background-color: hsl(212, 45%, 89%);
         display: flex;
         box-sizing: border-box;
@@ -56,7 +56,7 @@
 
 @media (max-width:375px){
       
-    .header{
+    .bg{
         background-color: hsl(212, 45%, 89%);
         display: flex;
         box-sizing: border-box;
